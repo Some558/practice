@@ -12,4 +12,4 @@ public class Main {
       System.out.println("身長は" + height + "cmです。");
       System.out.println("十二支は" + zodiac + "です。");
     }
-  }  
+  }   
